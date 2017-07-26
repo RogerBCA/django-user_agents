@@ -2,6 +2,8 @@ Public version 0.3.1
 ==================
 Fork: https://github.com/selwin/django-user_agents
 
+To install use:: pip install django-user-agents-last
+
 Django User Agents
 ==================
 
