@@ -1,3 +1,7 @@
+Public version 0.3.1
+==================
+Fork: https://github.com/selwin/django-user_agents
+
 Django User Agents
 ==================
 
